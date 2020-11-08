@@ -1,7 +1,7 @@
 # Robocon20
 2 Co-op robots playing Rugby 7s based on Fiji's Robocon 2020 theme.
 
-# Mechanical Design
+## Mechanical Design
 
 PASS ROBOT
 
@@ -11,7 +11,7 @@ TRY ROBOT
 
 ![alt text](https://github.com/mlhakimz/Robocon20/blob/main/Images/TR.PNG)
 
-# Electronics Design
+## Electronics Design
 
 PCB BOARD
 
